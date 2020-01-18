@@ -1,6 +1,6 @@
 import { Options } from './options';
 
-declare module 'chart.js' {
+declare module 'chartjs' {
 	interface ChartDataSets {
 		/**
 		 * Per dataset datalabels plugin options.
